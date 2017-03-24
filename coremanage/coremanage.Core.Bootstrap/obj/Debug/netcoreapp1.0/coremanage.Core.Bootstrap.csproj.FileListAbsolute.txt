@@ -1,0 +1,15 @@
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.0\coremanage.Core.Bootstrap.deps.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.0\coremanage.Core.Bootstrap.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.0\coremanage.Core.Bootstrap.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\obj\Debug\netcoreapp1.0\coremanage.Core.Bootstrap.AssemblyInfo.cs
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\obj\Debug\netcoreapp1.0\coremanage.Core.Bootstrap.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\obj\Debug\netcoreapp1.0\coremanage.Core.Bootstrap.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\obj\Debug\netcoreapp1.0\coremanage.Core.Bootstrap.csprojResolveAssemblyReference.cache
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.0\coremanage.Core.Abstraction.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.0\coremanage.Core.Common.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.0\coremanage.Data.DomainModel.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.0\coremanage.Data.Storage.EFCore.Common.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.0\coremanage.Core.Abstraction.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.0\coremanage.Data.Storage.EFCore.Common.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.0\coremanage.Data.DomainModel.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.0\coremanage.Core.Common.pdb

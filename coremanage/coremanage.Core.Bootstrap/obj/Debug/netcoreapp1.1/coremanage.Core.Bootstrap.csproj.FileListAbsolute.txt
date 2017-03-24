@@ -1,0 +1,17 @@
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.1\coremanage.Core.Bootstrap.deps.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.1\coremanage.Core.Bootstrap.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.1\coremanage.Core.Bootstrap.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.1\coremanage.Core.Services.Shared.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.1\coremanage.Data.DomainModel.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.1\coremanage.Core.Services.Shared.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.1\coremanage.Data.DomainModel.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\obj\Debug\netcoreapp1.1\coremanage.Core.Bootstrap.csprojResolveAssemblyReference.cache
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\obj\Debug\netcoreapp1.1\coremanage.Core.Bootstrap.AssemblyInfo.cs
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\obj\Debug\netcoreapp1.1\coremanage.Core.Bootstrap.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\obj\Debug\netcoreapp1.1\coremanage.Core.Bootstrap.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.1\storagecore.Abstractions.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.1\storagecore.EntityFrameworkCore.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.1\storagecore.Abstractions.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.1\storagecore.EntityFrameworkCore.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.1\coremanage.Core.Models.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Bootstrap\bin\Debug\netcoreapp1.1\coremanage.Core.Models.pdb

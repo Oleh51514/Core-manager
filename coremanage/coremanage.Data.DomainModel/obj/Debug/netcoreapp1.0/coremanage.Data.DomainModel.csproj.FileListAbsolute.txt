@@ -1,0 +1,6 @@
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.DomainModel\bin\Debug\netcoreapp1.0\coremanage.Data.DomainModel.deps.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.DomainModel\bin\Debug\netcoreapp1.0\coremanage.Data.DomainModel.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.DomainModel\bin\Debug\netcoreapp1.0\coremanage.Data.DomainModel.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.DomainModel\obj\Debug\netcoreapp1.0\coremanage.Data.DomainModel.AssemblyInfo.cs
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.DomainModel\obj\Debug\netcoreapp1.0\coremanage.Data.DomainModel.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.DomainModel\obj\Debug\netcoreapp1.0\coremanage.Data.DomainModel.pdb

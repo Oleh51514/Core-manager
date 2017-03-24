@@ -1,0 +1,17 @@
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage.MSSQL\bin\Debug\netcoreapp1.1\coremanage.Data.Storage.MSSQL.deps.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage.MSSQL\bin\Debug\netcoreapp1.1\coremanage.Data.Storage.MSSQL.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage.MSSQL\obj\Debug\netcoreapp1.1\coremanage.Data.Storage.MSSQL.AssemblyInfo.cs
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage.MSSQL\bin\Debug\netcoreapp1.1\coremanage.Data.Storage.MSSQL.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage.MSSQL\bin\Debug\netcoreapp1.1\coremanage.Core.Contracts.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage.MSSQL\bin\Debug\netcoreapp1.1\coremanage.Data.DomainModel.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage.MSSQL\bin\Debug\netcoreapp1.1\coremanage.Data.Storage.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage.MSSQL\bin\Debug\netcoreapp1.1\storagecore.Abstractions.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage.MSSQL\bin\Debug\netcoreapp1.1\storagecore.EntityFrameworkCore.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage.MSSQL\bin\Debug\netcoreapp1.1\coremanage.Data.Storage.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage.MSSQL\bin\Debug\netcoreapp1.1\coremanage.Core.Contracts.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage.MSSQL\bin\Debug\netcoreapp1.1\coremanage.Data.DomainModel.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage.MSSQL\bin\Debug\netcoreapp1.1\storagecore.Abstractions.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage.MSSQL\bin\Debug\netcoreapp1.1\storagecore.EntityFrameworkCore.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage.MSSQL\obj\Debug\netcoreapp1.1\coremanage.Data.Storage.MSSQL.csprojResolveAssemblyReference.cache
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage.MSSQL\obj\Debug\netcoreapp1.1\coremanage.Data.Storage.MSSQL.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage.MSSQL\obj\Debug\netcoreapp1.1\coremanage.Data.Storage.MSSQL.pdb

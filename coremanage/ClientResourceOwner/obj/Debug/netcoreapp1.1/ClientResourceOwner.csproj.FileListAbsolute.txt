@@ -1,0 +1,9 @@
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\ClientResourceOwner\bin\Debug\netcoreapp1.1\ClientResourceOwner.deps.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\ClientResourceOwner\bin\Debug\netcoreapp1.1\ClientResourceOwner.runtimeconfig.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\ClientResourceOwner\bin\Debug\netcoreapp1.1\ClientResourceOwner.runtimeconfig.dev.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\ClientResourceOwner\bin\Debug\netcoreapp1.1\ClientResourceOwner.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\ClientResourceOwner\bin\Debug\netcoreapp1.1\ClientResourceOwner.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\ClientResourceOwner\obj\Debug\netcoreapp1.1\ClientResourceOwner.AssemblyInfo.cs
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\ClientResourceOwner\obj\Debug\netcoreapp1.1\ClientResourceOwner.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\ClientResourceOwner\obj\Debug\netcoreapp1.1\ClientResourceOwner.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\ClientResourceOwner\obj\Debug\netcoreapp1.1\ClientResourceOwner.csprojResolveAssemblyReference.cache

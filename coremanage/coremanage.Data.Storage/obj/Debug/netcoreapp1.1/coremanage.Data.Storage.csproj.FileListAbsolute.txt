@@ -1,0 +1,15 @@
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage\bin\Debug\netcoreapp1.1\coremanage.Data.Storage.deps.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage\bin\Debug\netcoreapp1.1\coremanage.Data.Storage.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage\bin\Debug\netcoreapp1.1\coremanage.Data.Storage.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage\obj\Debug\netcoreapp1.1\coremanage.Data.Storage.AssemblyInfo.cs
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage\obj\Debug\netcoreapp1.1\coremanage.Data.Storage.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage\obj\Debug\netcoreapp1.1\coremanage.Data.Storage.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage\obj\Debug\netcoreapp1.1\coremanage.Data.Storage.csprojResolveAssemblyReference.cache
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage\bin\Debug\netcoreapp1.1\coremanage.Core.Contracts.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage\bin\Debug\netcoreapp1.1\coremanage.Data.DomainModel.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage\bin\Debug\netcoreapp1.1\storagecore.Abstractions.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage\bin\Debug\netcoreapp1.1\storagecore.EntityFrameworkCore.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage\bin\Debug\netcoreapp1.1\coremanage.Core.Contracts.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage\bin\Debug\netcoreapp1.1\coremanage.Data.DomainModel.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage\bin\Debug\netcoreapp1.1\storagecore.EntityFrameworkCore.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Data.Storage\bin\Debug\netcoreapp1.1\storagecore.Abstractions.pdb

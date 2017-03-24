@@ -1,0 +1,9 @@
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\storagecore.EntityFrameworkCore\bin\Debug\netcoreapp1.1\storagecore.EntityFrameworkCore.deps.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\storagecore.EntityFrameworkCore\bin\Debug\netcoreapp1.1\storagecore.EntityFrameworkCore.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\storagecore.EntityFrameworkCore\bin\Debug\netcoreapp1.1\storagecore.EntityFrameworkCore.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\storagecore.EntityFrameworkCore\bin\Debug\netcoreapp1.1\storagecore.Abstractions.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\storagecore.EntityFrameworkCore\bin\Debug\netcoreapp1.1\storagecore.Abstractions.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\storagecore.EntityFrameworkCore\obj\Debug\netcoreapp1.1\storagecore.EntityFrameworkCore.csprojResolveAssemblyReference.cache
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\storagecore.EntityFrameworkCore\obj\Debug\netcoreapp1.1\storagecore.EntityFrameworkCore.AssemblyInfo.cs
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\storagecore.EntityFrameworkCore\obj\Debug\netcoreapp1.1\storagecore.EntityFrameworkCore.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\storagecore.EntityFrameworkCore\obj\Debug\netcoreapp1.1\storagecore.EntityFrameworkCore.pdb

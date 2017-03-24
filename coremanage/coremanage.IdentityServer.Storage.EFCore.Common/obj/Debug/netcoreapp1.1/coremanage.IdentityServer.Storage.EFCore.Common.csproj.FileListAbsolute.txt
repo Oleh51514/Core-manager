@@ -1,0 +1,7 @@
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.Storage.EFCore.Common\bin\Debug\netcoreapp1.1\coremanage.IdentityServer.Storage.EFCore.Common.deps.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.Storage.EFCore.Common\bin\Debug\netcoreapp1.1\coremanage.IdentityServer.Storage.EFCore.Common.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.Storage.EFCore.Common\bin\Debug\netcoreapp1.1\coremanage.IdentityServer.Storage.EFCore.Common.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.Storage.EFCore.Common\obj\Debug\netcoreapp1.1\coremanage.IdentityServer.Storage.EFCore.Common.AssemblyInfo.cs
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.Storage.EFCore.Common\obj\Debug\netcoreapp1.1\coremanage.IdentityServer.Storage.EFCore.Common.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.Storage.EFCore.Common\obj\Debug\netcoreapp1.1\coremanage.IdentityServer.Storage.EFCore.Common.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.Storage.EFCore.Common\obj\Debug\netcoreapp1.1\coremanage.IdentityServer.Storage.EFCore.Common.csprojResolveAssemblyReference.cache

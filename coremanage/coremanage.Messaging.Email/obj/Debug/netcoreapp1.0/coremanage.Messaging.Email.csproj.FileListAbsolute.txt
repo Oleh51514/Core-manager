@@ -1,0 +1,7 @@
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Messaging.Email\bin\Debug\netcoreapp1.0\coremanage.Messaging.Email.deps.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Messaging.Email\bin\Debug\netcoreapp1.0\coremanage.Messaging.Email.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Messaging.Email\bin\Debug\netcoreapp1.0\coremanage.Messaging.Email.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Messaging.Email\obj\Debug\netcoreapp1.0\coremanage.Messaging.Email.AssemblyInfo.cs
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Messaging.Email\obj\Debug\netcoreapp1.0\coremanage.Messaging.Email.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Messaging.Email\obj\Debug\netcoreapp1.0\coremanage.Messaging.Email.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Messaging.Email\obj\Debug\netcoreapp1.0\coremanage.Messaging.Email.csprojResolveAssemblyReference.cache

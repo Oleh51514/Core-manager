@@ -1,0 +1,7 @@
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Models\bin\Debug\netcoreapp1.1\coremanage.Core.Models.deps.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Models\bin\Debug\netcoreapp1.1\coremanage.Core.Models.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Models\bin\Debug\netcoreapp1.1\coremanage.Core.Models.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Models\obj\Debug\netcoreapp1.1\coremanage.Core.Models.AssemblyInfo.cs
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Models\obj\Debug\netcoreapp1.1\coremanage.Core.Models.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Models\obj\Debug\netcoreapp1.1\coremanage.Core.Models.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Models\obj\Debug\netcoreapp1.1\coremanage.Core.Models.csprojResolveAssemblyReference.cache

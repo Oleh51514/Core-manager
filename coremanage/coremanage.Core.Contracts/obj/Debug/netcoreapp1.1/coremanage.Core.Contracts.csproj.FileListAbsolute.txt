@@ -1,0 +1,13 @@
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Contracts\bin\Debug\netcoreapp1.1\coremanage.Core.Contracts.deps.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Contracts\bin\Debug\netcoreapp1.1\coremanage.Core.Contracts.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Contracts\bin\Debug\netcoreapp1.1\coremanage.Core.Contracts.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Contracts\obj\Debug\netcoreapp1.1\coremanage.Core.Contracts.AssemblyInfo.cs
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Contracts\obj\Debug\netcoreapp1.1\coremanage.Core.Contracts.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Contracts\obj\Debug\netcoreapp1.1\coremanage.Core.Contracts.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Contracts\obj\Debug\netcoreapp1.1\coremanage.Core.Contracts.csprojResolveAssemblyReference.cache
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Contracts\bin\Debug\netcoreapp1.1\coremanage.Data.DomainModel.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Contracts\bin\Debug\netcoreapp1.1\storagecore.Abstractions.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Contracts\bin\Debug\netcoreapp1.1\storagecore.EntityFrameworkCore.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Contracts\bin\Debug\netcoreapp1.1\coremanage.Data.DomainModel.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Contracts\bin\Debug\netcoreapp1.1\storagecore.Abstractions.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Contracts\bin\Debug\netcoreapp1.1\storagecore.EntityFrameworkCore.pdb

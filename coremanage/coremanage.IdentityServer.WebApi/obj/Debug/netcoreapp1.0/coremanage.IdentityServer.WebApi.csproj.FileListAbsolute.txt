@@ -1,0 +1,13 @@
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.WebApi\bin\Debug\netcoreapp1.0\coremanage.IdentityServer.WebApi.deps.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.WebApi\bin\Debug\netcoreapp1.0\coremanage.IdentityServer.WebApi.runtimeconfig.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.WebApi\bin\Debug\netcoreapp1.0\coremanage.IdentityServer.WebApi.runtimeconfig.dev.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.WebApi\bin\Debug\netcoreapp1.0\coremanage.IdentityServer.WebApi.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.WebApi\obj\Debug\netcoreapp1.0\coremanage.IdentityServer.WebApi.AssemblyInfo.cs
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.WebApi\bin\Debug\netcoreapp1.0\coremanage.IdentityServer.WebApi.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.WebApi\obj\Debug\netcoreapp1.0\coremanage.IdentityServer.WebApi.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.WebApi\obj\Debug\netcoreapp1.0\coremanage.IdentityServer.WebApi.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.WebApi\bin\Debug\netcoreapp1.0\coremanage.IdentityServer.Storage.EFCore.Common.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.WebApi\bin\Debug\netcoreapp1.0\coremanage.IdentityServer.Storage.EFCore.MSSQL.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.WebApi\bin\Debug\netcoreapp1.0\coremanage.IdentityServer.Storage.EFCore.Common.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.WebApi\bin\Debug\netcoreapp1.0\coremanage.IdentityServer.Storage.EFCore.MSSQL.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.WebApi\obj\Debug\netcoreapp1.0\coremanage.IdentityServer.WebApi.csprojResolveAssemblyReference.cache

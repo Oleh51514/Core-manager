@@ -1,0 +1,9 @@
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.Web\bin\Debug\netcoreapp1.0\coremanage.Dashboard.Web.deps.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.Web\bin\Debug\netcoreapp1.0\coremanage.Dashboard.Web.runtimeconfig.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.Web\bin\Debug\netcoreapp1.0\coremanage.Dashboard.Web.runtimeconfig.dev.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.Web\bin\Debug\netcoreapp1.0\coremanage.Dashboard.Web.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.Web\bin\Debug\netcoreapp1.0\coremanage.Dashboard.Web.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.Web\obj\Debug\netcoreapp1.0\coremanage.Dashboard.Web.csprojResolveAssemblyReference.cache
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.Web\obj\Debug\netcoreapp1.0\coremanage.Dashboard.Web.AssemblyInfo.cs
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.Web\obj\Debug\netcoreapp1.0\coremanage.Dashboard.Web.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.Web\obj\Debug\netcoreapp1.0\coremanage.Dashboard.Web.pdb

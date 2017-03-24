@@ -1,0 +1,9 @@
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.Storage.EFCore.MSSQL\bin\Debug\netcoreapp1.0\coremanage.IdentityServer.Storage.EFCore.MSSQL.deps.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.Storage.EFCore.MSSQL\bin\Debug\netcoreapp1.0\coremanage.IdentityServer.Storage.EFCore.MSSQL.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.Storage.EFCore.MSSQL\obj\Debug\netcoreapp1.0\coremanage.IdentityServer.Storage.EFCore.MSSQL.csprojResolveAssemblyReference.cache
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.Storage.EFCore.MSSQL\obj\Debug\netcoreapp1.0\coremanage.IdentityServer.Storage.EFCore.MSSQL.AssemblyInfo.cs
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.Storage.EFCore.MSSQL\bin\Debug\netcoreapp1.0\coremanage.IdentityServer.Storage.EFCore.Common.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.Storage.EFCore.MSSQL\bin\Debug\netcoreapp1.0\coremanage.IdentityServer.Storage.EFCore.MSSQL.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.Storage.EFCore.MSSQL\bin\Debug\netcoreapp1.0\coremanage.IdentityServer.Storage.EFCore.Common.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.Storage.EFCore.MSSQL\obj\Debug\netcoreapp1.0\coremanage.IdentityServer.Storage.EFCore.MSSQL.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.IdentityServer.Storage.EFCore.MSSQL\obj\Debug\netcoreapp1.0\coremanage.IdentityServer.Storage.EFCore.MSSQL.pdb

@@ -1,0 +1,17 @@
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.WebApi\bin\Debug\netcoreapp1.0\coremanage.Dashboard.WebApi.deps.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.WebApi\bin\Debug\netcoreapp1.0\coremanage.Dashboard.WebApi.runtimeconfig.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.WebApi\bin\Debug\netcoreapp1.0\coremanage.Dashboard.WebApi.runtimeconfig.dev.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.WebApi\bin\Debug\netcoreapp1.0\coremanage.Dashboard.WebApi.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.WebApi\bin\Debug\netcoreapp1.0\coremanage.Dashboard.WebApi.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.WebApi\obj\Debug\netcoreapp1.0\coremanage.Dashboard.WebApi.csprojResolveAssemblyReference.cache
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.WebApi\obj\Debug\netcoreapp1.0\coremanage.Dashboard.WebApi.AssemblyInfo.cs
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.WebApi\obj\Debug\netcoreapp1.0\coremanage.Dashboard.WebApi.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.WebApi\obj\Debug\netcoreapp1.0\coremanage.Dashboard.WebApi.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.WebApi\bin\Debug\netcoreapp1.0\coremanage.Data.DomainModel.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.WebApi\bin\Debug\netcoreapp1.0\coremanage.Data.Storage.EFCore.Common.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.WebApi\bin\Debug\netcoreapp1.0\coremanage.Data.Storage.EFCore.MSSQL.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.WebApi\bin\Debug\netcoreapp1.0\coremanage.Data.Storage.EFCore.MSSQL.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.WebApi\bin\Debug\netcoreapp1.0\coremanage.Data.DomainModel.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.WebApi\bin\Debug\netcoreapp1.0\coremanage.Data.Storage.EFCore.Common.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.WebApi\bin\Debug\netcoreapp1.0\coremanage.Core.Abstraction.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Dashboard.WebApi\bin\Debug\netcoreapp1.0\coremanage.Core.Abstraction.pdb

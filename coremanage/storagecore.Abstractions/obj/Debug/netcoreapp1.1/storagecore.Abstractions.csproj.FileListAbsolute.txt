@@ -1,0 +1,7 @@
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\storagecore.Abstractions\bin\Debug\netcoreapp1.1\storagecore.Abstractions.deps.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\storagecore.Abstractions\bin\Debug\netcoreapp1.1\storagecore.Abstractions.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\storagecore.Abstractions\bin\Debug\netcoreapp1.1\storagecore.Abstractions.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\storagecore.Abstractions\obj\Debug\netcoreapp1.1\storagecore.Abstractions.AssemblyInfo.cs
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\storagecore.Abstractions\obj\Debug\netcoreapp1.1\storagecore.Abstractions.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\storagecore.Abstractions\obj\Debug\netcoreapp1.1\storagecore.Abstractions.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\storagecore.Abstractions\obj\Debug\netcoreapp1.1\storagecore.Abstractions.csprojResolveAssemblyReference.cache

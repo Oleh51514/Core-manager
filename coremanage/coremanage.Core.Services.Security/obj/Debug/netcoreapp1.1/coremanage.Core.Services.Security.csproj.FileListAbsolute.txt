@@ -1,0 +1,7 @@
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Services.Security\bin\Debug\netcoreapp1.1\coremanage.Core.Services.Security.deps.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Services.Security\bin\Debug\netcoreapp1.1\coremanage.Core.Services.Security.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Services.Security\bin\Debug\netcoreapp1.1\coremanage.Core.Services.Security.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Services.Security\obj\Debug\netcoreapp1.1\coremanage.Core.Services.Security.AssemblyInfo.cs
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Services.Security\obj\Debug\netcoreapp1.1\coremanage.Core.Services.Security.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Services.Security\obj\Debug\netcoreapp1.1\coremanage.Core.Services.Security.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Services.Security\obj\Debug\netcoreapp1.1\coremanage.Core.Services.Security.csprojResolveAssemblyReference.cache

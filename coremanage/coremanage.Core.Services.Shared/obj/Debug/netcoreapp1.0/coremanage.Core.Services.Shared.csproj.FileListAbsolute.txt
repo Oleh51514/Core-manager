@@ -1,0 +1,6 @@
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Services.Shared\bin\Debug\netcoreapp1.0\coremanage.Core.Services.Shared.deps.json
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Services.Shared\bin\Debug\netcoreapp1.0\coremanage.Core.Services.Shared.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Services.Shared\bin\Debug\netcoreapp1.0\coremanage.Core.Services.Shared.pdb
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Services.Shared\obj\Debug\netcoreapp1.0\coremanage.Core.Services.Shared.AssemblyInfo.cs
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Services.Shared\obj\Debug\netcoreapp1.0\coremanage.Core.Services.Shared.dll
+D:\2_GitWorkspace\1_FlorinskiyDI\coremanage\coremanage\coremanage.Core.Services.Shared\obj\Debug\netcoreapp1.0\coremanage.Core.Services.Shared.pdb
